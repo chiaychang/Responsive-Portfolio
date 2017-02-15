@@ -294,7 +294,7 @@ label {
 	color: #ffffff;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 980px) {
 	.content {
 		width: 325px;
 	}
